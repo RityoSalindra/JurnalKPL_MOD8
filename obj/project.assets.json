@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kuliah\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK SE-44-03 [HIK]\\Praktikum\\MOD7\\modul8_1302204014\\modul8_1302204014.csproj",
+      "projectUniqueName": "D:\\Kuliah\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK SE-44-03 [HIK]\\Praktikum\\MOD8\\modul8_1302204014\\modul8_1302204014.csproj",
       "projectName": "modul8_1302204014",
-      "projectPath": "D:\\Kuliah\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK SE-44-03 [HIK]\\Praktikum\\MOD7\\modul8_1302204014\\modul8_1302204014.csproj",
+      "projectPath": "D:\\Kuliah\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK SE-44-03 [HIK]\\Praktikum\\MOD8\\modul8_1302204014\\modul8_1302204014.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Kuliah\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK SE-44-03 [HIK]\\Praktikum\\MOD7\\modul8_1302204014\\obj\\",
+      "outputPath": "D:\\Kuliah\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK SE-44-03 [HIK]\\Praktikum\\MOD8\\modul8_1302204014\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
